@@ -1,0 +1,1 @@
+Spanisch Vokabeltrainer V5. Erfolgsquote: Balkendiagramm mit Datum auf X-Achse, Prozent auf Y-Achse sowie Woche/Monat/Jahr. Alle 5 Dateien in GitHub ersetzen.
